@@ -1,0 +1,6 @@
+pandas
+psutil
+pynput
+openpyxl
+llama-cpp-python
+tkinter  # (included with Python standard library)
